@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "About"
+title: "About Me"
 description: ""
 ---
 {% include JB/setup %}
-my name is about!我就是About
+Chinese blog: [ganmu's cnblogs](http://www.cnblogs.com/ganmuren)
+
+Linked in: [ganmu's linked in](https://cn.linkedin.com/in/唯艺-戴-52978537)

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "My first article"
-description: ""
+title: "Concurrency(01)"
+tagline: "understanding concept & avoiding dead lock" 
 category: 
-tags: []
+tags: [concurrency]
+
 ---
 {% include JB/setup %}
 ## 第一页，jekyll的开始
