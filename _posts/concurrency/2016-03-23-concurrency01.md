@@ -2,7 +2,7 @@
 layout: post
 title: "Concurrency(01)"
 tagline: "understanding concept & avoiding dead lock" 
-category: 
+category: tech essays
 tags: [concurrency]
 
 ---

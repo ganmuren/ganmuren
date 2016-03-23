@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contents
-tagline: of Software Development Inspirations...
+title: Inspirations
+tagline: of My Software Development...
 ---
 {% include JB/setup %}
 
